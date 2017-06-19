@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Дипломка</string>
+    <string name="menu_home">Фильмы</string>
+    <string name="menu_search">Кинотеатры</string>
+    <string name="menu_notifications">Настройка</string>
+    <string name="title_activity_movie_list">MovieListActivity</string>
+    <string name="menu_night_mode">Ночной режим</string>
+    <string name="menu_night_mode_system">ночной</string>
+    <string name="menu_night_mode_day">дневной режим</string>
+    <string name="menu_night_mode_night">ночной</string>
+    <string name="menu_night_mode_auto">автоматически</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

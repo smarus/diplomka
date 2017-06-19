@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="МАНАС"
+        android:id="@+id/manas_cinema"
+        android:layout_weight="0.5"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+    <TextView
+        android:text="КОСМОПАРК"
+        android:layout_weight="0.5"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+    <TextView
+        android:text="БИШКЕКПАРК"
+        android:layout_weight="0.5"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+    <TextView
+        android:text="РОССИЯ"
+        android:layout_weight="0.5"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+    <TextView
+        android:text="АЛА-ТОО"
+        android:layout_weight="0.5"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:text="ВЕФА"
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:clickable="true"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+    <TextView
+        android:text="ОКТЯБРЬ"
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:clickable="true"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:text="КЫРГЫЗ КИНОСУ"
+        android:layout_weight="0.5"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:clickable="true"
+        android:layout_gravity="bottom"
+        android:background="@drawable/list_selector"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#8a66ac"
+        android:textSize="25sp"/>
+
+
+
+
+
+</LinearLayout>

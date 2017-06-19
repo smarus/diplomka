@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">>
+    <item
+
+        android:id="@+id/menu_movies"
+        android:title="@string/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/movies"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:enabled="true"
+        android:id="@+id/menu_seans"
+        android:title="@string/menu_search"
+        android:icon="@drawable/ticket"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:enabled="true"
+        android:id="@+id/menu_settings"
+        android:title="@string/menu_notifications"
+        android:icon="@drawable/settings"
+        app:showAsAction="ifRoom"/>
+</menu>
